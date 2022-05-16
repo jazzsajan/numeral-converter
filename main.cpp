@@ -1,4 +1,4 @@
-//jazz sajan jxs210014
+//jazz sajan
 //MERGE SORT 87-153, CALL LINE 374
 #include <iostream>
 #include <fstream>
